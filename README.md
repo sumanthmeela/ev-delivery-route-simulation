@@ -57,4 +57,4 @@ This project is provided for academic and research purposes only.
 
 ## 📞 Contact
 
-For any questions or collaborations, please contact [Sumanth Meela](mailto:meelasumanth123@gmail.com).
+For any questions or collaborations, please contact meelasumanth123@gmail.com
